@@ -8,13 +8,17 @@ Solution : The screen shot of the files which are used to copy the dataset into 
 
 The aim of this project is to analyze performance of various companies on aspects like:
 1. Write a pig script to find no of complaints which got timely response
-Solution : Screen shot of the pig script to find the no of complaints which got timely response are 
+
+Solution : Screen shot of the pig script to find the no of complaints which got timely response are
+
 ConscompP1_pigscript.png
 
 Mysql table creation for the output in screen shot below
+
 ConscompP1MySQLtable.png
 
 sqoop export and mysql select in screenshot below
+
 ConscompP1MySQLtableSqoopExport_Select.png
 ConscompP1MySQLtableSelect.png
 
@@ -25,9 +29,11 @@ day they recieved
 ConscompP2_pigscript.png
 
 Mysql table creation for the output in screen shot below
+
 ConscompP2MySQLtable.png
 
 sqoop export and mysql select in screenshot below
+
 ConscompP2MySQLtableSqoopExport_Select.png
 
 
@@ -37,18 +43,23 @@ Solution : Screen shot of pig script for list of compaines toping in complaint c
 ConscompP3_pigscript.png
 
 Mysql table creation for the output in screen shot below
+
 ConscompP3MySQLtable.png
 
 sqoop export and mysql select in screenshot below
+
 ConscompP3MySQLtableSqoopExport_Select.png
 
 
 4. Write a pig script to find no of complaints filed with product type has &quot;Debt
 collection&quot; for the year 2015
 Solution : Screen shot of pig script to find no of complaines toping in complaint chart is 
+
 ConscompP4_pigscript.png
 Mysql table creation for the output in screen shot below
+
 ConscompP4MySQLtable.png
 
 sqoop export and mysql select in screenshot below
+
 ConscompP4MySQLtableSqoopExport_Select.png
